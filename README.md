@@ -1,6 +1,6 @@
-# nOEN. n-Order Ecological Network
+# Non-parametric measure of multi-variable rank correlation
  
-<br>*Contributors: Eloi Martinez-Rabert*
+*Contributors: Eloi Martinez-Rabert*
 
 ____________________________
 
