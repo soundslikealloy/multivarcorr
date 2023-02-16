@@ -29,4 +29,4 @@ Click [here](https://www.mathworks.com/help/install/) for more information about
   1. Call to `run_multivarcorr(data_file)` where...
     &#09;<br>>`data_file (string)` is the name of Excel file (w/ extension).
 
->> Once the correlation analysis has been performed, the results will be displayed in the *Command Window*.
+**Once the correlation analysis has been performed, the results will be displayed in the *Command Window*.**
