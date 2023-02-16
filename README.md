@@ -7,15 +7,16 @@ ____________________________
 ## Before having fun...
 
 **:warning: To open the links in a new tab: Ctrl + Click. :warning:**
-
+<!--
 ### · Journal of the Royal Statistical Society. Series B: Statistical Methodology
 The existing Excel file (*\Data\data.xlsx*) contains the last example of Table 3.
 
 **Thanks for your help in improving the quality of our manuscript.**
+-->
 
 ### :gear: MATLAB installation
 
-This IbM framework is build up in MATLAB. Therefore, MATLAB must be installed in your computer.
+This code is build up in MATLAB. Therefore, MATLAB must be installed in your computer.
 <br>You can use the [free 30-day trial](https://www.mathworks.com/campaigns/products/trials.html?ef_id=CjwKCAjwqJSaBhBUEiwAg5W9p96Y1NtC8BCa4Pw_wm3sswXR27ZkvuHZtWMOMUntOrmDSc1Ib3MGCRoCILQQAvD_BwE:G:s&s_kwcid=AL!8664!3!463011314378!p!!g!!matlab%20downlaod&s_eid=ppc_6588247642&q=matlab%20downlaod&gclid=CjwKCAjwqJSaBhBUEiwAg5W9p96Y1NtC8BCa4Pw_wm3sswXR27ZkvuHZtWMOMUntOrmDSc1Ib3MGCRoCILQQAvD_BwE) or "Sign in"/"Create account" if your university already has a MATLAB campus license (see [Campus-Wide License](https://www.mathworks.com/academia/tah-support-program/eligibility.html) search).
 
 Click [here](https://www.mathworks.com/help/install/) for more information about MATLAB Installation and Licensing.
