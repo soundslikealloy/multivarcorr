@@ -6,7 +6,7 @@ ____________________________
 
 ## Before having fun...
 
-**:warning: To open the links in a new tab: Ctrl + click or right click on the link + "Open link in new tab". :warning:**
+**:warning: To open the links in a new tab: Ctrl + Click. :warning:**
 
 ### :gear: MATLAB installation
 
