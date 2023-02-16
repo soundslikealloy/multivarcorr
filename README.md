@@ -16,7 +16,7 @@ This IbM framework is build up in MATLAB. Therefore, MATLAB must be installed in
 Click [here](https://www.mathworks.com/help/install/) for more information about MATLAB Installation and Licensing.
 
 ## :clipboard: Instructions to Download and Run *Multi-variable rank correlation analysis*
-1. Download .zip code. Soon... <!-- Last version: `v1.0.0`. [Download code](Lorem ipsum). -->
+1. Download .zip code. Last version: `v1.0.0`. [Download code](https://github.com/soundslikealloy/multivarcorr/archive/refs/tags/v1.0.0.zip).
 2. Extract files to a destination (:bulb: recommendation - Desktop).
 3. Open MATLAB.
     - For more information about MATLAB Layout and how to change it, click [here](https://www.mathworks.com/help/matlab/matlab_env/change-the-desktop-layout.html).
