@@ -8,6 +8,11 @@ ____________________________
 
 **:warning: To open the links in a new tab: Ctrl + Click. :warning:**
 
+### · Journal of the Royal Statistical Society. Series B: Statistical Methodology
+The existing Excel file (*\Data\data.xlsx*) contains the last example of Table 3.
+
+**Thanks for your help in improving the quality of our manuscript.**
+
 ### :gear: MATLAB installation
 
 This IbM framework is build up in MATLAB. Therefore, MATLAB must be installed in your computer.
