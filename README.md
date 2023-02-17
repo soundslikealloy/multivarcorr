@@ -7,12 +7,12 @@ ____________________________
 ## Before having fun...
 
 **:warning: To open the links in a new tab: Ctrl + Click. :warning:**
-<!--
-### · Journal of the Royal Statistical Society. Series B: Statistical Methodology
+
+### · Journal of Applied Statistics 
 The existing Excel file (*\Data\data.xlsx*) contains the last example of Table 3.
 
 **Thanks for your help in improving the quality of our manuscript.**
--->
+
 
 ### :gear: MATLAB installation
 
