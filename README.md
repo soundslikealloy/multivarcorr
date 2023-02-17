@@ -1,4 +1,4 @@
-# Non-parametric measure of rank correlation for multiple variable (N > 2)
+# Non-parametric measure of rank correlation for multiple variables
  
 *Contributors: Eloi Martinez-Rabert*
 
