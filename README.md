@@ -1,4 +1,4 @@
-# Non-parametric measure of rank correlation for multiple variables
+# Non-parametric measure of rank correlation for multiple variables (Extended Kendall's τ coefficient)
  
 *Contributors: Eloi Martinez-Rabert*
 
