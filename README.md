@@ -11,7 +11,7 @@ ____________________________
 ### · Journal of Applied Statistics 
 The existing Excel file (*\Data\data.xlsx*) contains the last example of Table 3.
 
-**Thanks for your help in improving the quality of our manuscript.**
+**Thanks for your help in improving the quality of manuscript.**
 
 
 ### :gear: MATLAB installation
