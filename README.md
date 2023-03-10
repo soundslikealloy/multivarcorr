@@ -6,14 +6,6 @@ ____________________________
 
 ## Before having fun...
 
-**:warning: To open the links in a new tab: Ctrl + Click. :warning:**
-
-### · Journal of Applied Statistics 
-The existing Excel file (*\Data\data.xlsx*) contains the last example of Table 3.
-
-**Thanks for your help in improving the quality of manuscript.**
-
-
 ### :gear: MATLAB installation
 
 This code is build up in MATLAB. Therefore, MATLAB must be installed in your computer.
