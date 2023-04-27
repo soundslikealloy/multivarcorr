@@ -1,4 +1,4 @@
-# Non-parametric measure of rank correlation for multiple variables (Extended Kendall's τ coefficient)
+# Multivariate generalization of Kendall's Tau (Tau-N)
  
 *Contributors: Eloi Martinez-Rabert*
 
