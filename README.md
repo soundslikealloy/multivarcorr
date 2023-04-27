@@ -1,4 +1,4 @@
-# Multivariate generalization of Kendall's Tau (Tau-N)
+# Multivariate generalization of Kendall's Tau (Tau-N) using paired orthants
  
 *Contributors: Eloi Martinez-Rabert*
 
