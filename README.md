@@ -23,8 +23,7 @@ Click [here](https://www.mathworks.com/help/install/) for more information about
     &#09;<br>→ writing `cd newFolder` to *Command Window* (more info about [cd](https://www.mathworks.com/help/matlab/ref/cd.html)).
     &#09;<br>→ or using *Folder Toolbar* - paste the folder name where the code was extracted.
 5. Modify the existind Excel in **Data folder** with the data, or create a new one using the provided template (**Data\Template\template.xlsx**). Do not forget to copy the Excel file into **Data folder**.
-6. Execute mutlivarcorr() function:
-  1. Call to `run_multivarcorr(data_file)` where...
+6. Call to `run_multivarcorr(data_file)` where...
     &#09;<br>>`data_file (string)` is the name of Excel file (w/ extension).
 
 **Once the correlation analysis is done, the results will be displayed in the *Command Window*.**
