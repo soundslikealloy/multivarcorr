@@ -14,7 +14,7 @@ This code is build up in MATLAB. Therefore, MATLAB must be installed in your com
 
 Click [here](https://www.mathworks.com/help/install/) for more information about MATLAB Installation and Licensing.
 
-## :clipboard: Instructions to Download and Run *Multi-variable rank correlation analysis*
+## :clipboard: Instructions to Download and Run
 1. Download .zip code. Last version: `v1.0.0`. [Download code](https://github.com/soundslikealloy/multivarcorr/archive/refs/tags/v1.0.0.zip).
 2. Extract files to a destination (:bulb: recommendation - Desktop).
 3. Open MATLAB.
