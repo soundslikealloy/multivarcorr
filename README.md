@@ -1,4 +1,5 @@
-# Multivariate generalization of Kendall's Tau (Tau-N) using paired orthants
+# Multivariate and non-parametric association measure based on paired orthants
+
  
 *Contributors: Eloi Martinez-Rabert*
 
