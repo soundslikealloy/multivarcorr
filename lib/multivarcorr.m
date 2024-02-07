@@ -1,5 +1,5 @@
-function [RKtau, RKt_pval, num_obs, deltas, rr, symbolMatrix_up, symbolMatrix_down] = multivarcorr(D, dataset)
-    %%%%% Function to calculate n-τ coefficients
+function [iota, iota_pval, num_obs, deltas, rr, symbolMatrix_up, symbolMatrix_down] = multivarcorr(D, dataset)
+    %%%%% Function to calculate ι coefficients
     % D (integer): number of variables considered
     % dataset (struct): table of data (number observations)x(dimensions)
 
@@ -29,23 +29,23 @@ function [RKtau, RKt_pval, num_obs, deltas, rr, symbolMatrix_up, symbolMatrix_do
     
     %% Rabert-Kendall's n-τ
     if D == 2
-        RKtau = deltas(1) - deltas(2);       
+        iota = deltas(1) - deltas(2);       
     else
         p = nchoosek(1:N, 2);
-        RKtau_comb = sortrows(reshape(p(:,perms(1:2)),[],2));
+        iota_comb = sortrows(reshape(p(:,perms(1:2)),[],2));
 
-        deltas_diff = reshape(1 + (deltas(RKtau_comb(:,1)) - deltas(RKtau_comb(:,2))), [N-1,N]);
-        RKtau = transpose(geomean(deltas_diff)-1);
+        deltas_diff = reshape(1 + (deltas(iota_comb(:,1)) - deltas(iota_comb(:,2))), [N-1,N]);
+        iota = transpose(geomean(deltas_diff)-1);
     end
     
     %% p-value
     var = (2 * (2 * num_obs + 5)) / (9 * num_obs * (num_obs - 1));
-    RK_Zt = RKtau ./ sqrt(var);
-    RKt_pval = 2 * normcdf(-abs(RK_Zt));
+    RK_Zi = iota ./ sqrt(var);
+    iota_pval = 2 * normcdf(-abs(RK_Zi));
     
     if D == 2
-        RKtau = [RKtau; NaN];
-        RKt_pval = [RKt_pval; NaN];
+        iota = [iota; NaN];
+        iota_pval = [iota_pval; NaN];
     end
 end
 
