@@ -27,7 +27,7 @@ function [iota, iota_pval, num_obs, deltas, rr, symbolMatrix_up, symbolMatrix_do
     [F, symbolMatrix_up, symbolMatrix_down, binomial_untied] = formalism_Oh(N, num_obs, dataset, paired_Oh, binomial);
     deltas = (1 / binomial_untied) * F;
     
-    %% Rabert-Kendall's n-τ
+    %% Multivariate ι coefficients
     if D == 2
         iota = deltas(1) - deltas(2);       
     else
